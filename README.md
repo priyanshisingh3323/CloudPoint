@@ -47,6 +47,13 @@ Built with HTML, CSS, JavaScript, Tailwind CSS, and powerful third-party APIs li
 ![Image Alt](https://github.com/priyanshisingh3323/CloudPoint/blob/main/Screenshot%202025-07-13%20235300.png?raw=true)
 ---
 
+## 🌐 Live Demo
+
+[🔗 View Live](https://climono.netlify.app/)  
+
+
+---
+
 ## 🚀 Getting Started
 
 ### 📦 Clone the Repo
